@@ -109,7 +109,6 @@ module.exports = {
     }],
     '@typescript-eslint/no-duplicate-imports': ['off'],
     '@typescript-eslint/semi': ['warn', 'never'],
-    '@typescript-eslint/no-unused-vars': ['off'],
   },
   globals: {
     'defineProps': 'readonly',
